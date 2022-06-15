@@ -1,9 +1,9 @@
 # Vertex AI: ¿Cómo hacer ciencia de datos en la nube de Google?
 
 ## Intro
-Este es el repo del workshop **Vertex AI: ¿Cómo hacer ciencia de datos en la nube de Google?**. En el contexto del uso de Vertex AI como solución para la puesta productiva de modelos de machine learning, la idea es empezar a amigarnos con la nube de forma amena y lo más sencilla posible. A lo largo del taller vamos a introducir algunos servicios de Google Cloud Platform (GCP) tales como BigQuery (data warehousing), Google Cloud Storage (almacenamiento de objetos) y Container Registry (repositorio de inágenes de Docker).
+Este es el repo del workshop **Vertex AI: ¿Cómo hacer ciencia de datos en la nube de Google?**. En el contexto del uso de Vertex AI como solución para la puesta productiva de modelos de machine learning, la idea es empezar a amigarnos con la nube de forma amena y lo más sencilla posible. A lo largo del taller vamos a introducir algunos servicios de Google Cloud Platform (GCP) tales como BigQuery (data warehousing), Google Cloud Storage (almacenamiento de objetos) y Container Registry (repositorio de imágenes de Docker).
 
-En ambos casos, los mdoelos toman datos de público acceso mediante BigQuery, específicamente el dataset *Dry Bean Dataset Data Set*.
+En ambos casos, los modelos toman datos de público acceso mediante BigQuery, específicamente el dataset *Dry Bean Dataset*.
 
 ## ¿Cómo lo corro?
 Primero, ejecutar la notebook **00_cloud_setup.ipynb**. Contiene la configuración de la infraestructura que será utilizada (los buckets de GCS que se usarán en los ejercicios y las librerías necesarias). Luego, dentro de cada carpeta hay dos notebooks con los casos que se van a revisar.
