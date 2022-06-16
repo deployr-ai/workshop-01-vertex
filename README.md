@@ -28,5 +28,5 @@ De todas formas están las celdas ejecutas (y revisadas) para que veas lo que pa
 Compartirlo, usarlo, desarmarlo... ¡lo que quieras! Si llegás a usarlo de alguna manera y te resulta de utilidad, siempre podés mencionarnos en cualquiera de nuestras redes: nos pondría muy contentos saber si esto te sirvió y cumplió con su cometido pedagógico :)
 
 ## Video de la charla
-¡Aún no disponible! Cuando esté, lo vamos a poner.
+[Workshop - Vertex AI: ¿Cómo hacer ciencia de datos en la nube?](https://youtu.be/3ZGJ88cEeSc)
 
